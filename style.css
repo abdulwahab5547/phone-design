@@ -37,7 +37,7 @@ body{
     border-bottom: 8px solid black;
     border-left: 1px solid black;
     border-right: 1px solid black;
-    background-image: url("oneplus-wall.jpg");
+    background-image: url("/oneplus-wall.jpg");
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
